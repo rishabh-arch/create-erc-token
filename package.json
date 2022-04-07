@@ -1,4 +1,5 @@
 {
+  "homepage": "http://rishabh-arch.github.io/create-erc-token",
   "name": "ercs-demo",
   "version": "0.1.0",
   "private": true,
@@ -23,6 +24,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -51,6 +54,7 @@
     "chai": "^4.3.4",
     "ethereum-waffle": "^3.4.0",
     "ethers": "^5.4.7",
+    "gh-pages": "^3.2.3",
     "hardhat": "^2.6.5"
   }
 }
