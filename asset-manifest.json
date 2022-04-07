@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/create-erc-token/static/css/main.0347e494.chunk.css",
+    "main.js": "/create-erc-token/static/js/main.62378c58.chunk.js",
+    "main.js.map": "/create-erc-token/static/js/main.62378c58.chunk.js.map",
+    "runtime-main.js": "/create-erc-token/static/js/runtime-main.0a7d2b58.js",
+    "runtime-main.js.map": "/create-erc-token/static/js/runtime-main.0a7d2b58.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/create-erc-token/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.7a0b8199.chunk.js": "/create-erc-token/static/js/2.7a0b8199.chunk.js",
+    "static/js/2.7a0b8199.chunk.js.map": "/create-erc-token/static/js/2.7a0b8199.chunk.js.map",
+    "index.html": "/create-erc-token/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/create-erc-token/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.0347e494.chunk.css.map": "/create-erc-token/static/css/main.0347e494.chunk.css.map",
+    "static/js/2.7a0b8199.chunk.js.LICENSE.txt": "/create-erc-token/static/js/2.7a0b8199.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a7d2b58.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.7a0b8199.chunk.js",
+    "static/css/main.0347e494.chunk.css",
+    "static/js/main.62378c58.chunk.js"
+  ]
+}
