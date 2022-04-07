@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  
+}
+
+#BodyBg{
+  /* make background radial gradient */
+  background: radial-gradient(circle, rgb(5, 1, 14) 50%, rgb(2, 0, 9) 100%);
+
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#css-button{
+  background-color: rgb(247, 8, 8);
+  border: 2px solid white;
+}
+#LINK{
+  color: rgb(247, 8, 8);
+  text-decoration: none;
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 5px;
+}
+#css-textfield{
+  color: rgb(210, 12, 12);
+  border: 2px solid white;
+  outline: none;
+  border-radius: 5px;
+  background-color: rgb(186, 205, 221);
+}
+#AppBarID{
+  text-align: center;
+  align-items: center;
+  background-color: rgba(75, 5, 5, 0.986);
+width: 100%;
+    border:"none";
+    box-Shadow: "none";
+    width: "100%";
+                    color: "#FFFFFF";
+                
+}
